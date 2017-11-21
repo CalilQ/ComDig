@@ -1,0 +1,6 @@
+
+l = 0.8928808593750001 maximizes C for Eb/N0 = -5.0dB
+l = 0.84111328125 maximizes C for Eb/N0 = -2.0dB
+l = 0.7994531250000001 maximizes C for Eb/N0 = 0.0dB
+l = 0.7308105468750001 maximizes C for Eb/N0 = 3.0dB
+l = 0.6359765625000001 maximizes C for Eb/N0 = 7.0dB
