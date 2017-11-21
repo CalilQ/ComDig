@@ -52,4 +52,4 @@ def plot_cap_l(l: array, eb_n0_vals: list):
     ax.set_xlabel("Quantization limits")
     ax.set_ylabel("Channel capacity [bits per channel use]")
     ax.grid()
-    plt.show(ax)
+    return ax
